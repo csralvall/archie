@@ -96,6 +96,11 @@ a:hover {
   text-decoration: none !important;
 }
 
+/* Footer */
+footer {
+  border-top: 0.15rem solid var(--darkMaincolor);
+}
+
 .header nav,
 .footer {
   border-color: #333;
